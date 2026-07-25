@@ -1,0 +1,6 @@
+{
+  "name": "Desafio Fotográfico - Zoe 1 Aninho",
+  "description": "Um divertido desafio fotográfico cooperativo para o primeiro aniversário da Zoe. Convidados tiram fotos com base em missões aleatórias da roleta!",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
